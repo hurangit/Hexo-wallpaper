@@ -1,0 +1,22 @@
+{
+  "name": "hexo-wallpaper",
+  "version": "1.0.0",
+  "description": "hexo的壁纸文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hurangit/Hexo-wallpaper.git"
+  },
+  "keywords": [
+    "图床"
+  ],
+  "author": "huran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hurangit/Hexo-wallpaper/issues"
+  },
+  "homepage": "https://github.com/hurangit/Hexo-wallpaper#readme"
+}
