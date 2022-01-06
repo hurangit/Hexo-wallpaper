@@ -1,6 +1,6 @@
 {
   "name": "hexo-wallpaper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "hexo的壁纸文件",
   "main": "index.js",
   "scripts": {
